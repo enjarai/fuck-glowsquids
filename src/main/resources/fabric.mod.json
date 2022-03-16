@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "fuck-glowsquids",
+  "version": "${version}",
+  "name": "Fuck Glowsquids",
+  "description": "Backports 1.18.2 glowsquid spawning changes to 1.18.1.",
+  "authors": [
+    "enjarai"
+  ],
+  "contact": {
+    "sources": "https://github.com/enjarai/fuck-glowsquids"
+  },
+  "license": "MIT",
+  "icon": "assets/fuck-glowsquids/icon.png",
+  "environment": "*",
+  "entrypoints": {},
+  "mixins": [
+    "fuck-glowsquids.mixins.json"
+  ],
+  "depends": {
+  }
+}
