@@ -1,4 +1,4 @@
-package nl.enjarai.fuck_glowsquids.mixin;
+package nl.enjarai.glowsquids_begone.mixin;
 
 import net.minecraft.entity.EntityType;
 import net.minecraft.entity.LivingEntity;
