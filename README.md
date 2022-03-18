@@ -1,4 +1,4 @@
-# Fuck Glowsquids.
+# Glowsquids Begone!
 
 With 1.18.2 mojang finally realised glowsquids spawning in *all* water below y30 is dumb.
 Annoyingly, that same update also made a bunch of under the hood changes that break basically every mod.
